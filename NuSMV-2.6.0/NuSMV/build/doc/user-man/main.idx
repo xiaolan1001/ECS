@@ -1,0 +1,222 @@
+\indexentry {comments in \nusmv language|hyperpage}{6}
+\indexentry {syntax rules!identifiers|hyperpage}{6}
+\indexentry {keywords|hyperpage}{6}
+\indexentry {syntax rules!symbolic constants|hyperpage}{7}
+\indexentry {types|hyperpage}{7}
+\indexentry {types!boolean|hyperpage}{7}
+\indexentry {boolean type|hyperpage}{7}
+\indexentry {integer type|hyperpage}{7}
+\indexentry {types!integer|hyperpage}{7}
+\indexentry {enumeration types|hyperpage}{7}
+\indexentry {types!enumerations|hyperpage}{7}
+\indexentry {word type|hyperpage}{8}
+\indexentry {types!word|hyperpage}{8}
+\indexentry {array type|hyperpage}{8}
+\indexentry {types!array|hyperpage}{8}
+\indexentry {set types|hyperpage}{8}
+\indexentry {types!set|hyperpage}{8}
+\indexentry {type order|hyperpage}{9}
+\indexentry {types!ordering|hyperpage}{9}
+\indexentry {expressions|hyperpage}{9}
+\indexentry {implicit type conversion|hyperpage}{10}
+\indexentry {types!implicit conversion|hyperpage}{10}
+\indexentry {constant expressions|hyperpage}{10}
+\indexentry {expressions!constants|hyperpage}{10}
+\indexentry {expressions!basic expressions|hyperpage}{12}
+\indexentry {operators!precedence|hyperpage}{13}
+\indexentry {defines|hyperpage}{13}
+\indexentry {variables|hyperpage}{13}
+\indexentry {parentheses|hyperpage}{14}
+\indexentry {NOT! logical and bitwise|hyperpage}{14}
+\indexentry {operators!NOT|hyperpage}{14}
+\indexentry {AND! logical and bitwise|hyperpage}{14}
+\indexentry {OR! logical and bitwise|hyperpage}{14}
+\indexentry {XOR! logical and bitwise|hyperpage}{14}
+\indexentry {XNOR! logical and bitwise|hyperpage}{14}
+\indexentry {IMPLIES! logical and bitwise|hyperpage}{14}
+\indexentry {IFF! logical and bitwise|hyperpage}{14}
+\indexentry {operators!AND|hyperpage}{14}
+\indexentry {operators!OR|hyperpage}{14}
+\indexentry {operators!XOR|hyperpage}{14}
+\indexentry {operators!XNOR|hyperpage}{14}
+\indexentry {operators!IMPLIES|hyperpage}{14}
+\indexentry {operators!IFF|hyperpage}{14}
+\indexentry {operators!equality|hyperpage}{15}
+\indexentry {operators!inequality|hyperpage}{15}
+\indexentry {\operator {>},\operator {<},\operator {>=},\operator {<=}|hyperpage}{15}
+\indexentry {operators!relational|hyperpage}{15}
+\indexentry {operators!arithmetic|hyperpage}{15}
+\indexentry {\operator {+},\operator {-},\operator {*},\operator {/}|hyperpage}{15}
+\indexentry {operator!mod|hyperpage}{16}
+\indexentry {\operator {mod}|hyperpage}{16}
+\indexentry {Shift Operator|hyperpage}{16}
+\indexentry {operators!shift|hyperpage}{16}
+\indexentry {\operator {<<}, \operator {>>}|hyperpage}{16}
+\indexentry {index subscript operator|hyperpage}{17}
+\indexentry {operators!index subscript|hyperpage}{17}
+\indexentry {\operator {[]}|hyperpage}{17}
+\indexentry {bit selection operator|hyperpage}{17}
+\indexentry {operators!bit selection|hyperpage}{17}
+\indexentry {\operator {[:]}|hyperpage}{17}
+\indexentry {operators!word concatenation|hyperpage}{17}
+\indexentry {concatenation operator|hyperpage}{17}
+\indexentry {\operator {::}|hyperpage}{17}
+\indexentry {sizeof operator|hyperpage}{18}
+\indexentry {extend operator|hyperpage}{18}
+\indexentry {resize operator|hyperpage}{18}
+\indexentry {set expressions|hyperpage}{18}
+\indexentry {operators!union|hyperpage}{18}
+\indexentry {expressions!sets|hyperpage}{19}
+\indexentry {inclusion operator|hyperpage}{19}
+\indexentry {operators!inclusion|hyperpage}{19}
+\indexentry {case expressions|hyperpage}{20}
+\indexentry {expressions!case|hyperpage}{20}
+\indexentry {if-then-else expressions|hyperpage}{20}
+\indexentry {basic next expression|hyperpage}{21}
+\indexentry {expressions!basic next|hyperpage}{21}
+\indexentry {operators!count|hyperpage}{21}
+\indexentry {simple expressions|hyperpage}{21}
+\indexentry {next expressions|hyperpage}{21}
+\indexentry {expressions!simple|hyperpage}{21}
+\indexentry {expressions!next|hyperpage}{21}
+\indexentry {Type conversion operators|hyperpage}{21}
+\indexentry {operators!cast|hyperpage}{21}
+\indexentry {toint operator|hyperpage}{21}
+\indexentry {bool operator|hyperpage}{22}
+\indexentry {swconst operator|hyperpage}{22}
+\indexentry {uwconst operator|hyperpage}{22}
+\indexentry {word1 operator|hyperpage}{22}
+\indexentry {signed operator|hyperpage}{22}
+\indexentry {unsigned operator|hyperpage}{22}
+\indexentry {definition of the FSM|hyperpage}{23}
+\indexentry {variable declarations|hyperpage}{23}
+\indexentry {type specifiers|hyperpage}{23}
+\indexentry {syntax rules!type specifiers|hyperpage}{23}
+\indexentry {state variables|hyperpage}{24}
+\indexentry {\code {VAR} declaration|hyperpage}{24}
+\indexentry {input variables syntax|hyperpage}{24}
+\indexentry {\code {IVAR} declaration|hyperpage}{24}
+\indexentry {frozen variables syntax|hyperpage}{25}
+\indexentry {\code {FROZENVAR} declaration|hyperpage}{25}
+\indexentry {input variables syntax|hyperpage}{26}
+\indexentry {state variables syntax|hyperpage}{26}
+\indexentry {\code {IVAR} declaration|hyperpage}{26}
+\indexentry {\code {VAR} declaration|hyperpage}{26}
+\indexentry {DEFINE declarations|hyperpage}{27}
+\indexentry {array define declarations|hyperpage}{27}
+\indexentry {DEFINE : array|hyperpage}{27}
+\indexentry {CONSTANTS declarations|hyperpage}{27}
+\indexentry {INIT constraint|hyperpage}{28}
+\indexentry {INVAR constraint|hyperpage}{28}
+\indexentry {TRANS constraint|hyperpage}{28}
+\indexentry {\code {ASSIGN} constraint|hyperpage}{28}
+\indexentry {\code {FAIRNESS} constraints|hyperpage}{30}
+\indexentry {fairness constraints|hyperpage}{30}
+\indexentry {justice constraints|hyperpage}{30}
+\indexentry {compassion constraints|hyperpage}{30}
+\indexentry {fair paths|hyperpage}{30}
+\indexentry {fair execution paths|hyperpage}{30}
+\indexentry {MODULE declarations|hyperpage}{31}
+\indexentry {syntax rules!module declarations|hyperpage}{31}
+\indexentry {MODULE instantiations|hyperpage}{31}
+\indexentry {identifiers|hyperpage}{32}
+\indexentry {syntax rules!complex identifiers|hyperpage}{32}
+\indexentry {self|hyperpage}{33}
+\indexentry {process keyword|hyperpage}{34}
+\indexentry {processes|hyperpage}{34}
+\indexentry {process|hyperpage}{34}
+\indexentry {\code {running}|hyperpage}{34}
+\indexentry {main module|hyperpage}{34}
+\indexentry {syntax rules!main program|hyperpage}{34}
+\indexentry {namespaces|hyperpage}{34}
+\indexentry {declarations|hyperpage}{34}
+\indexentry {context|hyperpage}{36}
+\indexentry {ISA declarations|hyperpage}{36}
+\indexentry { CTL specifications|hyperpage}{36}
+\indexentry {INVARSPEC Specifications|hyperpage}{38}
+\indexentry {Invariant Specifications|hyperpage}{38}
+\indexentry {LTL Specifications|hyperpage}{38}
+\indexentry {Important Difference Between BDD and SAT Based LTL Model Checking|hyperpage}{39}
+\indexentry {Real Time CTL Specifications and Computations|hyperpage}{40}
+\indexentry {infinity|hyperpage}{41}
+\indexentry {PSL Specifications|hyperpage}{41}
+\indexentry { Input File Syntax|hyperpage}{45}
+\indexentry {Scalar Variables|hyperpage}{46}
+\indexentry { Array Variables|hyperpage}{47}
+\indexentry {interactive, running \nusmv |hyperpage}{48}
+\indexentry {interactive shell|hyperpage}{48}
+\indexentry { \code {-source} {\it cmd-file}|hyperpage}{48}
+\indexentry {model reading|hyperpage}{49}
+\indexentry {model parsing|hyperpage}{49}
+\indexentry {model compiling|hyperpage}{49}
+\indexentry {\filename {temp.ord}|hyperpage}{52}
+\indexentry {Commands for Bounded Model Checking|hyperpage}{69}
+\indexentry {Commands for checking PSL specifications|hyperpage}{85}
+\indexentry { Simulation Commands|hyperpage}{90}
+\indexentry { Execution Commands|hyperpage}{93}
+\indexentry {Traces|hyperpage}{94}
+\indexentry { Inspecting Traces|hyperpage}{95}
+\indexentry { Displaying Traces|hyperpage}{95}
+\indexentry { Trace Plugin Commands|hyperpage}{96}
+\indexentry { Trace Plugins|hyperpage}{98}
+\indexentry { Basic Trace Explainer|hyperpage}{98}
+\indexentry { States/Variables Table|hyperpage}{99}
+\indexentry { XML Format Printer|hyperpage}{99}
+\indexentry { XML Format Reader|hyperpage}{100}
+\indexentry {Empty Trace|hyperpage}{100}
+\indexentry {interface to DD Package|hyperpage}{100}
+\indexentry { DD package interface|hyperpage}{100}
+\indexentry {administration commands|hyperpage}{105}
+\indexentry { Shell configuration Variables|hyperpage}{111}
+\indexentry {options|hyperpage}{114}
+\indexentry {batch, running \nusmv |hyperpage}{114}
+\indexentry { \code {-help}|hyperpage}{115}
+\indexentry { \code {-h}|hyperpage}{115}
+\indexentry {\code {-v} {\it verbose-level}|hyperpage}{115}
+\indexentry {master.nusmvrc|hyperpage}{115}
+\indexentry {.nusmvrc|hyperpage}{115}
+\indexentry {\~/.nusmvrc|hyperpage}{115}
+\indexentry {\code {-old}|hyperpage}{115}
+\indexentry {\code {-old\_div\_op}|hyperpage}{115}
+\indexentry {\code {-disable\_syntactic\_checks}|hyperpage}{115}
+\indexentry {\code {-disable\_daggifier}|hyperpage}{115}
+\indexentry {\code {-keep\_single\_value\_vars}|hyperpage}{115}
+\indexentry {\code {-dcx}|hyperpage}{115}
+\indexentry {\code {-cpp}|hyperpage}{115}
+\indexentry {\code {-pre} {\it pps}|hyperpage}{116}
+\indexentry { \code {-ofm} {\it fm\_file}|hyperpage}{116}
+\indexentry { \code {-obm} {\it bm\_file}|hyperpage}{116}
+\indexentry {\code {-lp}|hyperpage}{116}
+\indexentry {\code {-n} {\it idx}|hyperpage}{116}
+\indexentry {\code {-is}|hyperpage}{116}
+\indexentry {\code {-ic}|hyperpage}{116}
+\indexentry {\code {-ils}|hyperpage}{116}
+\indexentry {\code {-ils}|hyperpage}{116}
+\indexentry {\code {-ii}|hyperpage}{116}
+\indexentry {\code {-ctt}|hyperpage}{116}
+\indexentry { \code {-f}|hyperpage}{116}
+\indexentry { \code {-r}|hyperpage}{116}
+\indexentry { \code {-f}|hyperpage}{116}
+\indexentry { \code {-flt}|hyperpage}{116}
+\indexentry { \code {-AG}|hyperpage}{117}
+\indexentry { \code {-coi}|hyperpage}{117}
+\indexentry { \code {-i} {\it iv\_file}|hyperpage}{117}
+\indexentry { \code {-o} {\it ov\_file}|hyperpage}{117}
+\indexentry { \code {-t} {\it tv\_file}|hyperpage}{117}
+\indexentry { \code {-reorder}|hyperpage}{117}
+\indexentry { \code {-dynamic}|hyperpage}{117}
+\indexentry { \code {-m} {\it method}|hyperpage}{117}
+\indexentry { \code {-disable\_sexp2bdd\_caching}|hyperpage}{117}
+\indexentry { \code {-bdd\_soh}|hyperpage}{117}
+\indexentry { \code {-mono}|hyperpage}{117}
+\indexentry { \code {-thresh} {\it cp\_t}|hyperpage}{117}
+\indexentry { \code {-cp} {\it cp\_t}|hyperpage}{117}
+\indexentry { \code {-iwls95} {\it cp\_t}|hyperpage}{117}
+\indexentry { \code {-noaffinity}|hyperpage}{117}
+\indexentry { \code {-iwls95preorder}|hyperpage}{117}
+\indexentry { \code {-bmc}|hyperpage}{118}
+\indexentry { \code {-bmc\_length} {\it k}|hyperpage}{118}
+\indexentry { \code {-sat\_solver} {\it name}|hyperpage}{118}
+\indexentry {\code {-sin} {\it on,off}|hyperpage}{118}
+\indexentry {\code {-rin} {\it on,off}|hyperpage}{118}
+\indexentry {\code {-ojeba} {\it algorithm}|hyperpage}{118}

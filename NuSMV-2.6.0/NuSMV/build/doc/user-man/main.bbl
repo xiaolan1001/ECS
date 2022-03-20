@@ -1,0 +1,163 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{WJKWLvdBR06}
+
+\bibitem[ABE00]{abdulla00symbolic}
+P.~A. Abdulla, P.~Bjesse, and N.~E{\'e}n.
+\newblock Symbolic reachability analysis based on sat-solvers.
+\newblock In {\em Proceedings of Tools and Algorithms for Construction and
+  Analysis of Systems, 6th International Conference, TACAS 2000}, volume 1785
+  of {\em Lecture Notes in Computer Science}, pages 411--425. Springer, 2000.
+
+\bibitem[BCCZ99]{BCCZ99}
+A.~Biere, A.~Cimatti, E.~Clarke, and Y.~Zhu.
+\newblock Symbolic model checking without bdds.
+\newblock In {\em Tools and Algorithms for Construction and Analysis of
+  Systems, In TACAS'99}, March 1999.
+
+\bibitem[BCL{\etalchar{+}}94]{BCLM+94}
+J.R. Burch, E.M. Clarke, D.E. Long, K.L. McMillan, and D.L. Dill.
+\newblock Symbolic model checking for sequential circuit verification.
+\newblock In {\em IEEE Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems, 13(4):401--424}, April 1994.
+
+\bibitem[CBM90]{CMB90}
+O.~Coudert, C.~Berthet, and J.~C. Madre.
+\newblock Verification of synchronous sequential machines based on symbolic
+  execution.
+\newblock In {\em In J. Sifakis, editor, Proceedings of the International
+  Workshop on Automatic Verification Methods for Finite State Systems, volume
+  407 of LNCS, pages 365--373, Berlin}, June 1990.
+
+\bibitem[CCG{\etalchar{+}}02]{CCG+02}
+A.~Cimatti, E.~Clarke, E.~Giunchiglia, F.~Giunchiglia, M.~Pistore, M.~Roveri,
+  R.~Sebastiani, and A.~Tacchella.
+\newblock Nusmv 2: An opensource tool for symbolic model checking.
+\newblock In {\em Proceedings of Computer Aided Verification (CAV 02)}, 2002.
+
+\bibitem[CCGR00]{CCGR00}
+A.~Cimatti, E.~Clarke, F.~Giunchiglia, and M.~Roveri.
+\newblock Nusmv: a new symbolic model checker.
+\newblock In {\em International Journal on Software Tools for Technology
+  Transfer (STTT), 2(4)}, March 2000.
+
+\bibitem[CGH97]{CGH97}
+E.~Clarke, O.~Grumberg, and K.~Hamaguchi.
+\newblock Another look at ltl model checking.
+\newblock In {\em Formal Methods in System Design, 10(1):57--71}, February
+  1997.
+
+\bibitem[Dil88]{Dil88}
+D.~Dill.
+\newblock Trace theory for automatic hierarchical verification of
+  speed-independent circuits.
+\newblock In {\em ACM Distinguished Dissertations. MIT Press}, 1988.
+
+\bibitem[EL86]{DBLP:conf/lics/EmersonL86}
+E.~Emerson and C.~Lei.
+\newblock Efficient model checking in fragments of the propositional
+  mu-calculus (extended abstract).
+\newblock In {\em LICS}, pages 267--278. IEEE Computer Society, 1986.
+
+\bibitem[EMSS91]{EMSS91}
+E.~Allen Emerson, A.~K. Mok, A.~Prasad Sistla, and Jai Srinivasan.
+\newblock Quantitative temporal reasoning.
+\newblock In {\em Edmund M. Clarke and Robert P. Krushan, editors, Proceedings
+  of Computer-Aided Verification (CAV'90), volume 531 of LNCS, pages 136-145,
+  Berlin, Germany}, June 1991.
+
+\bibitem[ES04]{een04temporal}
+Niklas E\'en and Niklas S\"orensson.
+\newblock Temporal induction by incremental sat solving.
+\newblock In Ofer Strichman and Armin Biere, editors, {\em Electronic Notes in
+  Theoretical Computer Science}, volume~89. Elsevier, 2004.
+
+\bibitem[FAQ]{FAQ}
+{Frequently Asked Questions (FAQ)}.
+\newblock Available at \url{http://nusmv.fbk.eu/faq.html} or within the \nusmv
+  distribution package.
+
+\bibitem[HKQ03]{THenzingerOKupfermanSQadeer-FMSD-2003}
+T.~A. Henzinger, O.~Kupferman, and S.~Qadeer.
+\newblock From \emph{Pre}-historic to \emph{Post}-modern symbolic model
+  checking.
+\newblock {\em Formal Methods in System Design}, 23(3):303--327, 2003.
+
+\bibitem[KHL05]{cav05}
+T.~Junttila K.~Heljanko and T.~Latvala.
+\newblock Incremental and complete bounded model checking for full {PLTL}.
+\newblock In K.~Etessami and S.~K. Rajamani, editors, {\em Computer Aided
+  Verification, 17$^{th}$ International Conference {CAV} 2005}, number 3576 in
+  Lecture Notes in Computer Science, pages 98--111. Springer, 2005.
+
+\bibitem[LBHJ05]{vmcai05}
+T.~Latvala, A.~Biere, K.~Heljanko, and T.~Junttila.
+\newblock Simple is better: Efficient bounded model checking for past {LTL}.
+\newblock In R.~Cousot, editor, {\em {V}erification, {M}odel {C}hecking, and
+  {A}bstract {I}nterpretation, 6th International Conference {VMCAI} 2005},
+  number 3385 in Lecture Notes in Computer Science, pages 380--395. Springer,
+  2005.
+
+\bibitem[Mar85]{Mart85}
+A.J. Martin.
+\newblock The design of a self-timed circuit for distributed mutual exclusion.
+\newblock In {\em In H. Fuchs and W.H. Freeman, editors, \emph{Proceedings of
+  the 1985 Chapel Hill Conference on VLSI}, pages 245--260, New York}, 1985.
+
+\bibitem[McM92]{McMil92}
+K.L. McMillan.
+\newblock The smv system -- draft.
+\newblock In {\em Available at
+  \url{http://www.cs.cmu.edu/~modelcheck/smv/smvmanual.r2.2.ps}}, 1992.
+
+\bibitem[McM93]{McMil93}
+K.L. McMillan.
+\newblock Symbolic model checking.
+\newblock In {\em Kluwer Academic Publ.}, 1993.
+
+\bibitem[MHS00]{MOON00}
+Moon, Hachtel, and Somenzi.
+\newblock Border-block tringular form and conjunction schedule in image
+  computation.
+\newblock In {\em FMCAD}, 2000.
+
+\bibitem[PSL]{PSLparser}
+{L}anguage {F}ront-{E}nd for {S}ugar {F}oundation {L}anguage.
+\newblock http://www.haifa.il.ibm.com/projects/verification/sugar/parser.html.
+
+\bibitem[psl03]{PSLLRM}
+{A}ccellera, {P}roperty {S}pecification {L}anguage - {R}eference {M}anual -
+  {V}ersion 1.01.
+\newblock http://www.eda.org/vfv/docs/psl\_lrm-1.01.pdf, April 2003.
+
+\bibitem[RAP{\etalchar{+}}95]{RAP+95}
+R.~K. Ranjan, A.~Aziz, B.~Plessier, C.~Pixley, and R.~K. Brayton.
+\newblock Efficient bdd algorithms for fsm synthesis and verification.
+\newblock In {\em In IEEE/ACM Proceedings International Workshop on Logic
+  Synthesis, Lake Tahoe (NV)}, May 1995.
+
+\bibitem[sfVS96]{Vis96}
+"VIS:~A system~for Verification and The VIS~Group Synthesis".
+\newblock Proceedings of the 8th international conference on computer aided
+  verification, p428-432.
+\newblock In {\em Springer Lecture Notes in Computer Science, 1102, Edited by
+  R. Alur and T. Henzinger, New Brunswick, NJ}, 1996.
+
+\bibitem[She04]{DBLP:conf/sat/Sheridan04}
+Daniel Sheridan.
+\newblock The optimality of a fast cnf conversion and its use with sat.
+\newblock In {\em SAT}, 2004.
+
+\bibitem[Som98]{Som98}
+F.~Somenzi.
+\newblock Cudd: Cu decision diagram package --- release 2.2.0.
+\newblock In {\em Department of Electrical and Computer Engineering ---
+  University of Colorado at Boulder}, May 1998.
+
+\bibitem[WJKWLvdBR06]{fm06}
+P.~A.~Strooper W.~Johnston K. Winter L. van~den Berg and P.~Robinson.
+\newblock Model-based variable and transition orderings for efficient symbolic
+  model checking.
+\newblock In {\em FM 2006: Formal Methods}, number 4085 in Lecture Notes in
+  Computer Science, pages 524--540. Springer Berlin, 2006.
+
+\end{thebibliography}

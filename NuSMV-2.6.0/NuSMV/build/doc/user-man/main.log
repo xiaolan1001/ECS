@@ -1,0 +1,6129 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2022.3.18)  18 MAR 2022 22:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main
+(./main.tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./nusmv.sty
+Package: nusmv 
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count89
+\ST@wd=\dimen105
+\ST@rightskip=\skip43
+\ST@leftskip=\skip44
+\ST@parfillskip=\skip45
+\ST@pageleft=\dimen106
+\ST@headht=\dimen107
+\ST@tailht=\dimen108
+\ST@pagesofar=\dimen109
+\ST@pboxht=\dimen110
+\ST@lineht=\dimen111
+\ST@stretchht=\dimen112
+\ST@prevht=\dimen113
+\ST@toadd=\dimen114
+\ST@dimen=\dimen115
+\ST@pbox=\box26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen116
+\extrarowheight=\dimen117
+\NC@list=\toks15
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks16
+\minrowclearance=\skip48
+)
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/xspace.sty
+Package: xspace 1997/10/13 v1.06 Space after command names (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.def
+File: ot1enc.def 2017/02/22 v2.0g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/index.sty
+Package: index 1995/09/28 v4.1beta Improved index support (dmj)
+\@indexbox=\insert199
+\indexproofstyle=\toks17
+
+
+LaTeX Warning: Command \markboth  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \markright  has changed.
+               Check if current package is valid.
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/todonotes.sty
+Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count90
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen118
+\pgfutil@tempdimb=\dimen119
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box27
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen120
+\pgf@y=\dimen121
+\pgf@xa=\dimen122
+\pgf@ya=\dimen123
+\pgf@xb=\dimen124
+\pgf@yb=\dimen125
+\pgf@xc=\dimen126
+\pgf@yc=\dimen127
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count91
+\c@pgf@countb=\count92
+\c@pgf@countc=\count93
+\c@pgf@countd=\count94
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count95
+\pgfsyssoftpath@bigbuffer@items=\count96
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen128
+\pgfmath@count=\count97
+\pgfmath@box=\box28
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count98
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen129
+\pgf@picmaxx=\dimen130
+\pgf@picminy=\dimen131
+\pgf@picmaxy=\dimen132
+\pgf@pathminx=\dimen133
+\pgf@pathmaxx=\dimen134
+\pgf@pathminy=\dimen135
+\pgf@pathmaxy=\dimen136
+\pgf@xx=\dimen137
+\pgf@xy=\dimen138
+\pgf@yx=\dimen139
+\pgf@yy=\dimen140
+\pgf@zx=\dimen141
+\pgf@zy=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen143
+\pgf@path@lasty=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen145
+\pgf@shorten@start@additional=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count99
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen147
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen148
+\pgf@pt@y=\dimen149
+\pgf@pt@temp=\dimen150
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen152
+\pgf@sys@shading@range@num=\count100
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box32
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box33
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen153
+\pgf@nodesepend=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen155
+\pgffor@skip=\dimen156
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count101
+\pgfplotmarksize=\dimen157
+)
+\tikz@lastx=\dimen158
+\tikz@lasty=\dimen159
+\tikz@lastxsaved=\dimen160
+\tikz@lastysaved=\dimen161
+\tikzleveldistance=\dimen162
+\tikzsiblingdistance=\dimen163
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count102
+\tikznumberofchildren=\count103
+\tikznumberofcurrentchild=\count104
+\tikz@fig@count=\count105
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count106
+\pgfmatrixcurrentcolumn=\count107
+\pgf@matrix@numberofcolumns=\count108
+)
+\tikz@expandcount=\count109
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count110
+\calc@Bcount=\count111
+\calc@Adimen=\dimen164
+\calc@Bdimen=\dimen165
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count112
+\calc@Cskip=\skip51
+)
+\c@@todonotes@numberoftodonotes=\count113
+)
+\idxtitle@com=\toks32
+\tf@com=\write4
+\openout4 = `main.adx'.
+
+Package index Info: Writing index file main.adx on input line 64.
+\idxtitle@var=\toks33
+\tf@var=\write5
+\openout5 = `main.ndx'.
+
+Package index Info: Writing index file main.ndx on input line 65.
+\nusmvtablewidth=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count116
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4362.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count117
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen167
+\Fld@menulength=\count118
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip53
+)
+\idxtitle@default=\toks34
+\tf@default=\write6
+\openout6 = `main.idx'.
+
+Package index Info: Writing index file main.idx on input line 9.
+
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 13.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count124
+\scratchdimen=\dimen170
+\scratchbox=\box38
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen171
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks36
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box39
+Package hyperref Info: Link coloring OFF on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count130
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(./main.out) (./main.out)
+\@outlinefile=\write7
+\openout7 = `main.out'.
+
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/title.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 24.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 42--46
+\OT1/ptm/m/n/10 McMil-lan, avail-able at sdfdsf: []$\OT1/pcr/m/n/10 http : / / 
+www . cs . cmu . edu / []modelcheck /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 48.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \tableofcontents
+                      [1] (./main.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+ [2
+
+])
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+ [3]
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/intro.tex [4
+
+]) [5]
+Chapter 2.
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/syntax.tex
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <9> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 48.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+
+Underfull \hbox (badness 4193) in paragraph at lines 65--93
+[]\OT1/pcr/b/n/9 MODULE\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 DEFINE\OT1/ptm/m/n/9 , \
+OT1/pcr/b/n/9 MDEFINE\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 CONSTANTS\OT1/ptm/m/n/9 , 
+\OT1/pcr/b/n/9 VAR\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 IVAR\OT1/ptm/m/n/9 , \OT1/pcr
+/b/n/9 FROZENVAR\OT1/ptm/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 65--93
+\OT1/pcr/b/n/9 MAX\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 MIRROR\OT1/ptm/m/n/9 , \OT1/p
+cr/b/n/9 PRED\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 PREDICATES\OT1/ptm/m/n/9 , \OT1/pc
+r/b/n/9 process\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 array\OT1/ptm/m/n/9 , \OT1/pcr/b
+/n/9 of\OT1/ptm/m/n/9 , \OT1/pcr/b/n/9 boolean\OT1/ptm/m/n/9 ,
+ []
+
+[6
+
+]
+Underfull \hbox (badness 1158) in paragraph at lines 113--118
+[]\OT1/ptm/m/n/10 Examples of \OT1/pcr/m/n/9 integer numbers \OT1/ptm/m/n/10 an
+d \OT1/pcr/m/n/9 symbolic constants \OT1/ptm/m/n/10 are \OT1/pcr/m/n/10 3, -14,
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 130.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 135.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 166.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 166.
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 234--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--240
+
+ []
+
+[8]
+Overfull \hbox (60.02696pt too wide) in paragraph at lines 323--382
+ [] 
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 396--400
+[]\OT1/ptm/m/n/9 For 2 ar-rays types \OT1/pcr/m/n/9 array N1..M1 of subtype1 \O
+T1/ptm/m/n/9 and \OT1/pcr/m/n/9 array N2..M2 of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--426
+[]\OT1/ptm/m/n/9 To main-tain back-ward com-pat-i-bil-ity, there is a new sys-t
+em vari-able called
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 417--426
+\OT1/pcr/m/n/9 backward[]compatibility \OT1/ptm/m/n/9 (and a cor-re-pond-ing \O
+T1/pcr/m/n/9 -old \OT1/ptm/m/n/9 com-mand line op-tion) that
+ []
+
+[9]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 441.
+ [10]
+Overfull \hbox (16.79959pt too wide) in paragraph at lines 557--557
+[]        \OT1/pcr/b/n/9 0 \OT1/pcr/m/n/9 [word_sign_specifier] word_base [word
+_width] \OT1/pcr/b/n/9 _ \OT1/pcr/m/n/9 word_value[] 
+ []
+
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 581.
+[11]
+Overfull \hbox (3.83961pt too wide) in paragraph at lines 636--636
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 abs ( \OT1/pcr/m/n/9 basic[]expr \OT1/pcr
+/b/n/9 )                        \OT1/pcr/m/n/9 -- absolute value[] 
+ []
+
+
+Overfull \hbox (32.99957pt too wide) in paragraph at lines 641--641
+[]    \OT1/pcr/m/n/9 | basic_expr \OT1/pcr/b/n/9 xor \OT1/pcr/m/n/9 basic_expr 
+    -- logical or bitwise exclusive OR[] 
+ []
+
+
+Overfull \hbox (54.59955pt too wide) in paragraph at lines 642--642
+[]    \OT1/pcr/m/n/9 | basic_expr \OT1/pcr/b/n/9 xnor \OT1/pcr/m/n/9 basic_expr
+    -- logical or bitwise NOT exclusive OR[] 
+ []
+
+
+Overfull \hbox (27.59958pt too wide) in paragraph at lines 643--643
+[]    \OT1/pcr/m/n/9 | basic_expr \OT1/pcr/b/n/9 -> \OT1/pcr/m/n/9 basic_expr  
+    -- logical or bitwise implication[] 
+ []
+
+
+Overfull \hbox (27.59958pt too wide) in paragraph at lines 644--644
+[]    \OT1/pcr/m/n/9 | basic_expr \OT1/pcr/b/n/9 <-> \OT1/pcr/m/n/9 basic_expr 
+    -- logical or bitwise equivalence[] 
+ []
+
+
+Overfull \hbox (70.79953pt too wide) in paragraph at lines 663--663
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 word1 ( \OT1/pcr/m/n/9 basic_expr \OT1/pc
+r/b/n/9 )          \OT1/pcr/m/n/9 -- boolean to unsigned word[1] conversion[] 
+ []
+
+[12]
+Overfull \hbox (113.99948pt too wide) in paragraph at lines 664--664
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 bool ( \OT1/pcr/m/n/9 basic_expr \OT1/pcr
+/b/n/9 )           \OT1/pcr/m/n/9 -- unsigned word[1] and int to boolean conver
+sion[] 
+ []
+
+
+Overfull \hbox (119.39948pt too wide) in paragraph at lines 665--665
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 toint ( \OT1/pcr/m/n/9 basic_expr \OT1/pc
+r/b/n/9 )          \OT1/pcr/m/n/9 -- word and boolean to integer constant conve
+rsion[] 
+ []
+
+
+Overfull \hbox (43.79956pt too wide) in paragraph at lines 666--666
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 count ( \OT1/pcr/m/n/9 basic_expr_list \O
+T1/pcr/b/n/9 )     \OT1/pcr/m/n/9 -- count of true boolean expressions[] 
+ []
+
+
+Overfull \hbox (92.3995pt too wide) in paragraph at lines 668--668
+[]                                    \OT1/pcr/m/n/9 -- integer to signed word 
+constant conversion[] 
+ []
+
+
+Overfull \hbox (103.1995pt too wide) in paragraph at lines 670--670
+[]                                    \OT1/pcr/m/n/9 -- integer to unsigned wor
+d constant conversion[] 
+ []
+
+
+Overfull \hbox (76.19952pt too wide) in paragraph at lines 671--671
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 signed ( \OT1/pcr/m/n/9 basic_expr \OT1/p
+cr/b/n/9 )         \OT1/pcr/m/n/9 -- unsigned word to signed word conversion[] 
+
+ []
+
+
+Overfull \hbox (76.19952pt too wide) in paragraph at lines 672--672
+[]    \OT1/pcr/m/n/9 | \OT1/pcr/b/n/9 unsigned ( \OT1/pcr/m/n/9 basic_expr \OT1
+/pcr/b/n/9 )       \OT1/pcr/m/n/9 -- signed word to unsigned word conversion[] 
+
+ []
+
+
+LaTeX Font Warning: Font shape `OMS/pcr/bx/n' undefined
+(Font)              using `OMS/pcr/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 679.
+
+LaTeX Font Info:    Font shape `OMS/pcr/bx/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 679.
+
+Overfull \hbox (11.3996pt too wide) in paragraph at lines 680--680
+[]    \OT1/pcr/m/n/9 | basic_expr \OT1/pcr/b/n/9 .. \OT1/pcr/m/n/9 basic_expr  
+    -- pure integer set expression[] 
+ []
+
+
+Overfull \hbox (22.19958pt too wide) in paragraph at lines 681--681
+[]    \OT1/pcr/m/n/9 | basic_expr \OT1/pcr/b/n/9 in \OT1/pcr/m/n/9 basic_expr  
+    -- inclusion in a set expression[] 
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 792--794
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--834
+
+ []
+
+
+Overfull \hbox (5.20602pt too wide) in paragraph at lines 835--842
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--856
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 857--868
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--905
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--923
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--935
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 975--976
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--982
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1040
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1135--1156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
+
+ []
+
+
+Overfull \hbox (19.48407pt too wide) in paragraph at lines 1159--1167
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1167
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 1172.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1187
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1209
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1228--1233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1267--1268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1275
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1319
+
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 1341--1349
+[]\OT1/ptm/m/n/9 This is just a short-hand for a set ex-pres-sion con-tain-ing 
+the list of \OT1/pcr/m/n/9 integer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1366--1367
+
+ []
+
+[19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1524
+[] \OT1/pcr/m/n/9 (b0 + b1 + ... + bN) < 3 -- at most two bits are enabled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1610
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 1637--1642
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1647
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1663
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1679--1685
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1690
+
+ []
+
+[22] [23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 1988--2001
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--2001
+
+ []
+
+[25]
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 2068.
+ [26]
+Overfull \hbox (11.3996pt too wide) in paragraph at lines 2124--2124
+[]                        \OT1/pcr/m/n/9 | array_expression \OT1/pcr/b/n/9 , \O
+T1/pcr/m/n/9 array_expression_list[] 
+ []
+
+[27] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 2293--2295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2296--2303
+
+ []
+
+[29] [30]
+Overfull \hbox (5.9996pt too wide) in paragraph at lines 2502--2502
+[]\OT1/pcr/m/n/9 module :: \OT1/pcr/b/n/9 MODULE \OT1/pcr/m/n/9 identifier [\OT
+1/pcr/b/n/9 ( \OT1/pcr/m/n/9 module_parameters \OT1/pcr/b/n/9 )\OT1/pcr/m/n/9 ]
+ [module_body][] 
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 2632--2638
+
+ []
+
+[32]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2746--2750
+[]
+ []
+
+[33] [34] [35] [36] [37] [38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 3343--3347
+
+ []
+
+[40] [41] [42] [43] [44]
+Overfull \hbox (0.59961pt too wide) in paragraph at lines 3724--3724
+[]\OT1/pcr/m/n/9 Complete_Var_Name[index] -- to specify an array variable eleme
+nt[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3729--3732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3733--3734
+
+ []
+
+[45] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 3837--3843
+
+ []
+
+) [47]
+Chapter 3.
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/inter.tex
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 54--54
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 54--54
+\OT1/ptm/m/n/9 See also the vari-able  \OT1/pcr/m/n/9 on[]failure[]script[]quit
+s\OT1/ptm/m/n/9 .
+ []
+
+[48
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 73--78
+
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 82--82
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/read_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/9 Sets the en-vi-ron-ment vari-able \OT1/pcr/m/n/9 input[]file \OT
+1/ptm/m/n/9 to
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--15
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 97--97
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 103--103
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/flatten_hierarchy.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+[49]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--13
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 115--115
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 122--122
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 128--128
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
+
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 149--149
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/show_vars.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 show[]vars [-h] [-s] [-f] [-i] [-t | -V | -D] [-v] [-m | -o
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 19--19
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 17--19
+[] 
+ []
+
+[50]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 23--23
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 35--35
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 38--38
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 45--45
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\OT1/ptm/m/n/9 Writes the out-put gen-er-ated by the com-mand to
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 19--47
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/show_dependencies.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 17--17
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--19
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/encode_variables.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 23--23
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 23--23
+\OT1/ptm/m/n/9 Sets the en-vi-ron-ment vari-able \OT1/pcr/m/n/9 input[]order[]f
+ile \OT1/ptm/m/n/9 to
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 17--24
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 163--163
+[][] 
+ []
+
+[51]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 174--174
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/write_order.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/ptm/m/n/9 Dumps bits of scalar vari-ables in-stead of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/ptm/m/n/9 sin-gle scalar vari-ables. See also the vari-able
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 35--35
+[][]| 
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 35--35
+\OT1/ptm/m/n/9 Alias for the \OT1/pcr/m/n/9 -o \OT1/ptm/m/n/9 op-tion. Sup-plie
+d for back-ward
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 26--37
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 187--187
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 201--201
+[][] 
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 204--210
+\OT1/ptm/m/n/9 not spec-i-fied by a user and not com-puted stat-i-cally by heur
+is-tics (see vari-ables
+ []
+
+[52]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 254--254
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/build_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--11
+
+ []
+
+[53]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 23--23
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 12--24
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 293--293
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 320--320
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 325--325
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 330--330
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 349--349
+[][] 
+ []
+
+
+LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
+(Font)              using `OMS/ptm/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 356.
+
+LaTeX Font Info:    Font shape `OMS/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 356.
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 356--356
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 364--364
+[][] 
+ []
+
+[54]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 370--370
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_iwls95options.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/go.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 6--10
+[]\OT1/ptm/m/n/9 This com-mand ini-tial-izes the sys-tem for ver-i-fi-ca-tion. 
+It is equiv-a-lent to the
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 6--10
+\OT1/ptm/m/n/9 com-mand se-quence \OT1/pcr/m/n/9 read[]model\OT1/ptm/m/n/9 , \O
+T1/pcr/m/n/9 flatten[]hierarchy\OT1/ptm/m/n/9 , \OT1/pcr/m/n/9 encode[]variable
+s\OT1/ptm/m/n/9 ,
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 14--16
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/get_internal_status.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/process_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+[55]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 17--17
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\OT1/ptm/m/n/9 Sets the en-vi-ron-ment vari-able \OT1/pcr/m/n/9 input[]file \OT
+1/ptm/m/n/9 to
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 24--24
+\OT1/ptm/m/n/9 file \OT1/pcr/m/n/9 model-file\OT1/ptm/m/n/9 , and reads the mod
+el from file
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 15--30
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/build_flat_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/build_boolean_model.tex
+Underfull \hbox (badness 1688) in paragraph at lines 2--2
+[]|\OT1/ptm/b/n/9 build[]boolean[]model \OT1/ptm/m/n/9 - \OT1/ptm/m/it/9 Com-pi
+les the flat-tened hi-er-ar-chy into
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 10--10
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 8--11
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/write_flat_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+[]\OT1/ptm/m/n/9 If no file is spec-i-fied, the file spec-i-fied via the en-vi-
+ron-ment vari-able
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 10--13
+\OT1/pcr/m/n/9 output[]flatten[]model[]file \OT1/ptm/m/n/9 is used if any, oth-
+er-wise stan-dard out-put is
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 14--21
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 383--383
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 388--388
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 393--393
+[][] 
+ []
+
+[56]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 397--397
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 403--403
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/write_boolean_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+[]\OT1/ptm/m/n/9 If no file is spec-i-fied, the file spec-i-fied via the en-vi-
+ron-ment vari-able
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 10--13
+\OT1/pcr/m/n/9 output[]boolean[]model[]file \OT1/ptm/m/n/9 is used if any, oth-
+er-wise stan-dard out-put is
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 14--17
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 409--409
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 415--415
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/dump_fsm.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 dump[]fsm [-h] -o <fname> [-i] [-I] [-t] [-f] [-r] [-e
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 30--30
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--32
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/compute_reachable.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 19--19
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 25--25
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 15--25
+[] 
+ []
+
+[58])
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_reachable_states.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 11--11
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--15
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_fsm.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 9--18
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 432--432
+[][] 
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 433--436
+[]\OT1/ptm/m/n/9 Controls the ac-ti-va-tion of the to-tal-ity check of the tran
+-si-tion re-la-tion dur-ing the
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_fsm_stats.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+[59]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 26--26
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 20--29
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_fair_states.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_fair_transitions.tex
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ctlspec.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\OT1/pcr/m/n/9 check[]ctlspec [-h] [-m | -o output-file] [-n number | -p
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 23--23
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\OT1/pcr/m/n/9 -p "ctl-expr  [IN
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 30--30
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 15--30
+[] 
+ []
+
+[60]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 30--33
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 450--450
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 458--458
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 467--467
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 482--482
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+[]\OT1/ptm/b/n/9 EL[]fwd \OT1/ptm/m/n/9 A vari-ant of the Emerson-Lei al-go-rit
+hm that uses only for-
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 490--491
+\OT1/ptm/m/n/9 ward im-age com-pu-ta-tions (see, e.g., [[]]). This vari-ant re-
+quires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+\OT1/ptm/m/n/9 the vari-ables \OT1/pcr/m/n/9 forward[]search\OT1/ptm/m/n/9 , \O
+T1/pcr/m/n/9 ltl[]tableau[]forward[]search\OT1/ptm/m/n/9 ,
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_invar.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\OT1/pcr/m/n/9 check[]invar [-h] [-m | -o output-file] [-n number | -p
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\OT1/pcr/m/n/9 "invar-expr  [IN context]" | -P "name"] [-s strategy]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+\OT1/pcr/m/n/9 [-e f-b-heuristic] [-j b-b-heuristic] [-t threshold] [-k
+ []
+
+[61]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 41--41
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 45--45
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 48--48
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 53--53
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 56--56
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 80--80
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 80--80
+[]\OT1/ptm/m/n/9 ``bdd-bmc'' Ex-plore the search space us-ing BDD
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 90--90
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 36--90
+[] 
+ []
+
+[62] [63]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 100--100
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 105--105
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 110--110
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 110--110
+\OT1/ptm/m/n/9 When us-ing ``bdd-bmc'' strat-egy spec-ify the max-i-mum
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 90--112
+[] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 117--117
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 126--126
+[][] 
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 126--131
+[]\OT1/ptm/m/n/9 Determines de-fault forward-backward heuris-tic to be used whe
+n us-ing com-mand
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 135--135
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 143--143
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ltlspec.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 check[]ltlspec [-h] [-m | -o output-file] [-n number | -p
+ []
+
+[64]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 22--22
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 25--25
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 29--29
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 34--34
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 19--36
+[] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 40--40
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_compute.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\OT1/pcr/m/n/9 check[]compute [-h] [-m | -o output-file] [-n number | -p
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 34--39
+[] 
+ []
+
+[65]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 43--43
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 48--48
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 51--51
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 54--54
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 39--56
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_property.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]property [-h] [-n number | -P "name"] | [(-c | -l | -i
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 17--17
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 40--40
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 45--45
+[][]| 
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 45--45
+\OT1/ptm/m/n/9 Checks the for-mula spec-i-fied on the command-line.
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 16--47
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/add_property.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 add[]property [-h] [(-c | -l | -i | -q | -s) -p "formula
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 12--14
+[] 
+ []
+
+[66]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 22--22
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 26--26
+[][]| 
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 26--26
+\OT1/ptm/m/n/9 Adds the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on th
+e command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 14--30
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/show_property.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\OT1/pcr/m/n/9 show[]property [-h] [-n idx | -P "name"] [-c | -l | -i | -s |
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 30--30
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 33--33
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 34--34
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 35--35
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 37--37
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 38--38
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 29--38
+[] 
+ []
+
+[67]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 41--41
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 44--44
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 46--46
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 38--47
+[] 
+ []
+
+)
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/convert_property_to_invar.te
+x
+Overfull \hbox (1.97415pt too wide) in alignment at lines 5--5
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\OT1/pcr/m/n/9 convert[]property[]to[]invar[-n number | -P "name" | -p
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\OT1/pcr/m/n/9 -p G next-expr |
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 15--22
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/write_coi_model.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\OT1/pcr/m/n/9 write[]coi[]model [-h] [-n idx | -p "expr" | -P "name"] [-c |
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 22--22
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 23--23
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 25--25
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 16--25
+[] 
+ []
+
+[68]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 26--26
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 29--29
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 25--32
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 503--503
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 512--512
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 521--521
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/bmc_setup.tex [69]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/go_bmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 6--12
+[]\OT1/ptm/m/n/9 This com-mand ini-tial-izes the sys-tem for ver-i-fi-ca-tion. 
+It is equiv-a-lent to the
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 6--12
+\OT1/ptm/m/n/9 com-mand se-quence \OT1/pcr/m/n/9 read[]model\OT1/ptm/m/n/9 , \O
+T1/pcr/m/n/9 flatten[]hierarchy\OT1/ptm/m/n/9 , \OT1/pcr/m/n/9 encode[]variable
+s\OT1/ptm/m/n/9 ,
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 13--15
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 576--576
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 589--589
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 602--602
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ltlspec_bmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 5--5
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\OT1/pcr/m/n/9 check[]ltlspec[]bmc [-h ] | [-n idx | -p "formula [IN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/pcr/m/n/9 context]" | -P "name"] [-k max[]length] [-l loopback] [-o
+ []
+
+[70]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 36--36
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 44--44
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 51--52
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 56--57
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 58--59
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 61--62
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 65--65
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 66--67
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 67--68
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 68--69
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 69--70
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 28--72
+[] 
+ []
+
+[71]
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 72--73
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 72--74
+[] 
+ []
+
+)
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ltlspec_bmc_onepb.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 check[]ltlspec[]bmc[]onepb [-h ] | [ -n idx | -p "formula"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+\OT1/pcr/m/n/9 [IN context] | -P "name"] [-k length] [-l loopback] [-o
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 19--19
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 19--19
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 22--22
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 30--30
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 33--34
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 37--38
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 38--39
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 40--41
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 44--44
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 45--46
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 46--47
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 47--48
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 48--49
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 50--51
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--51
+[] 
+ []
+
+[72]
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 51--52
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 51--52
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/gen_ltlspec_bmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 gen[]ltlspec[]bmc [-h] | [ -n idx | -p "formula" [IN context]
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 35--35
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 35--35
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 38--38
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 44--44
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 51--52
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 55--56
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 28--56
+[] 
+ []
+
+[73]
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 56--57
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 58--59
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 64--64
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 65--66
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 66--67
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 67--68
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 68--69
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 70--71
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 56--72
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/gen_ltlspec_bmc_onepb.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 gen[]ltlspec[]bmc[]onepb [-h ] | [ -n idx | -p "formula"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+\OT1/pcr/m/n/9 [IN context] | -P "name"] [-k length] [-l loopback] [-o
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 18--18
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 26--26
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 29--29
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 33--34
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--34
+[] 
+ []
+
+[74]
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 36--37
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 37--38
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 39--40
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 46--46
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 47--48
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 48--49
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 49--50
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 50--51
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 52--53
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 53--54
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 34--55
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ltlspec_bmc_inc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 5--5
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\OT1/pcr/m/n/9 check[]ltlspec[]bmc[]inc [-h ] | [-n idx | -p "formula [IN
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 31--31
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 34--34
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 39--39
+\OT1/ptm/m/it/9 max[]length \OT1/ptm/m/n/9 is the max-i-mum prob-lem bound must
+ be
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 24--39
+[] 
+ []
+
+[75]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 46--47
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 51--52
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 53--54
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 56--57
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 39--58
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ltlspec_sbmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 5--5
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\OT1/pcr/m/n/9 check[]ltlspec[]sbmc [-h] | [-n idx | -p "formula [IN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+\OT1/pcr/m/n/9 context]" | -P "name"] [-k max[]length] [-l loopback] [-o
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 37--37
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 41--41
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 41--41
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 44--44
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 49--49
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 33--49
+[] 
+ []
+
+[76]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 52--52
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 56--57
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 61--62
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 63--64
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 66--67
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 70--70
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 72--73
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 73--74
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 74--75
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 76--77
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 77--78
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 49--79
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_ltlspec_sbmc_inc.tex
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 5--5
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\OT1/pcr/m/n/9 check[]ltlspec[]sbmc[]inc [-h ] | [ -n idx | -p "formula [IN
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 35--35
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 39--39
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 31--42
+[] 
+ []
+
+[77]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 49--49
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 51--51
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 42--53
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/gen_ltlspec_sbmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 5--5
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\OT1/pcr/m/n/9 gen[]ltlspec[]sbmc [-h ] | [ -n idx | -p "formula [IN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\OT1/pcr/m/n/9 context]" | -P "name" ] [-k max[]length] [-l loopback] [-o
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 40--40
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 40--40
+\OT1/ptm/m/n/9 Dumps the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on t
+he command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 50--50
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 54--55
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 32--55
+[] 
+ []
+
+[78]
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 59--60
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 61--62
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 64--65
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 68--68
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 69--70
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 70--71
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 72--73
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 74--75
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 75--76
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 55--77
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 623--623
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 630--630
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 645--645
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 649--649
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 653--653
+[][] 
+ []
+
+[79]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 679--679
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_invar_bmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 4--4
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\OT1/pcr/m/n/9 check[]invar[]bmc [-h | -n idx | -p "formula" [IN context] |
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 29--29
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 33--33
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 33--33
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 45--45
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 50--50
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 24--50
+[] 
+ []
+
+[80]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 54--54
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 55--56
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 56--57
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 58--59
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 59--60
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 50--61
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/gen_invar_bmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 gen[]invar[]bmc [-h | -n idx | -p "formula [IN context]" | -P
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 17--17
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 21--21
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 32--33
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 33--34
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 35--36
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 36--37
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 12--38
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_invar_bmc_inc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]invar[]bmc[]inc [-h ] | [ -n idx | -p "formula" [IN
+ []
+
+[81]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 40--40
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 40--40
+\OT1/ptm/m/n/9 Checks the \OT1/pcr/m/n/9 formula \OT1/ptm/m/n/9 spec-i-fied on 
+the command-line.
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 43--43
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 48--48
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 52--52
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 52--52
+\OT1/ptm/m/n/9 Only for \OT1/pcr/m/n/9 falsification\OT1/ptm/m/n/9 : in-cre-men
+t the search of
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 57--57
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 31--59
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 695--695
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 702--702
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 708--708
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--725
+
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 727--727
+[][] 
+ []
+
+[82] (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/bmc_simulate.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 bmc[]pick[]state [-h] [-v] [-c "constraint" | -s trace.state]
+ []
+
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¬ in font ptmr7t!
+Missing character: There is no  in font ptmr7t!
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 17--17
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 13--21
+[] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 26--26
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]\OT1/pcr/m/n/9 bmc[]simulate [-h] [-p | -v] [-r] [[-c "constraints"] | [-t
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 38--38
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 40--40
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 50--50
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 37--50
+[] 
+ []
+
+[83]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 61--61
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 68--68
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 50--69
+[] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 74--74
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+[]\OT1/pcr/m/n/9 bmc[]inc[]simulate [-h] [-p | -v] [-r | -i [-a]] [[-c
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 87--87
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 88--88
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 89--89
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 90--90
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 92--92
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 102--102
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 86--102
+[] 
+ []
+
+[84]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 113--113
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 120--120
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 102--121
+[] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 127--127
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+[]\OT1/pcr/m/n/9 bmc[]simulate[]check[]feasible[]constraints [-h] [-q] [-c
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 134--134
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 137--137
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 133--138
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_pslspec.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]pslspec [-h] [-m | -o output-file] [-n number | -p
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 23--23
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 19--23
+[] 
+ []
+
+[85]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 34--34
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 37--37
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 23--39
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_pslspec_bmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]pslspec[]bmc [-h] [-m | -o output-file] [-n number | -p
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 "psl-expr  [IN context]" | -P "name"] [-g] [-1] [-k
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 24--47
+[] 
+ []
+
+[86]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 51--51
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 57--57
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 61--61
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 66--67
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 73--74
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 77--78
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 47--79
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_pslspec_bmc_inc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]pslspec[]bmc[]inc [-h] [-m | -o output-file] [-n number
+ |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 -p
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 "psl-expr  [IN context]" | -P "name"] [-1] [-k
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 24--36
+[] 
+ []
+
+[87]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 46--46
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 52--52
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 56--56
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 61--62
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 66--67
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 68--69
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 72--73
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 36--74
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_pslspec_sbmc.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]pslspec[]sbmc [-h] [-m | -o output-file] [-n number |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 -p
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 "psl-expr  [IN context]" | -P "name"] [-g] [-1] [-k
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 24--28
+[] 
+ []
+
+[88]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 32--32
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 51--51
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 57--57
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 61--61
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 66--67
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 73--74
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 77--78
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 28--79
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/check_pslspec_sbmc_inc.tex
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\OT1/pcr/m/n/9 check[]pslspec[]sbmc[]inc [-h] [-m | -o output-file] [-n numbe
+r
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 | -p
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/pcr/m/n/9 "psl-expr  [IN context]" | -P "name"] [-1] [-k
+ []
+
+[89]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 35--35
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 45--45
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 49--49
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 55--55
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 59--59
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 64--65
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 69--70
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 71--72
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 75--76
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 77--77
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 79--79
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 27--81
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/pick_state.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\OT1/pcr/m/n/9 pick[]state [-h] [-v] [-r | -i [-a]] [-c "constraints" | -s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--13
+
+ []
+
+[90]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 17--17
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 19--19
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 26--26
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 36--36
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 40--40
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 13--42
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/simulate.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+[]\OT1/pcr/m/n/9 simulate [-h] [-p | -v] [-r | -i [-a]] [-c "constraints" |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--23
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 25--25
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 23--25
+[] 
+ []
+
+[91]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 31--31
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 46--46
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 50--50
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 61--61
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 72--72
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 25--72
+[] 
+ []
+
+[92]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 79--79
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 72--81
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 762--762
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 767--767
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 773--773
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 777--777
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/execute_traces.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 execute[]traces [-h] [-v] [-m | -o output-file] -e engine [-a
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 18--18
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 21--21
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/9 Writes the out-put gen-er-ated by the com-mand to
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--24
+[] 
+ []
+
+[93]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 28--28
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 24--29
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/execute_partial_traces.tex
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 execute[]partial[]traces [-h] [-v] [-r] [-m | -o output-file]
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 27--27
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\OT1/ptm/m/n/9 Writes the out-put gen-er-ated by the com-mand to
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 30--30
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 34--34
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 12--35
+[] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 796--811
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--818
+
+ []
+
+[94] (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/goto_state.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_current_state.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 10--10
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 8--11
+[] 
+ []
+
+)
+Underfull \hbox (badness 3769) in paragraph at lines 855--860
+[]\OT1/ptm/m/n/9 Generation and dis-play-ing of traces can be en-abled/disabled
+ by set-ting vari-able
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 861--861
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 866--866
+[][] 
+ []
+
+[95]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 877--877
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 894--894
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 900--900
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/show_plugins.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 3--3
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 9--9
+[][]| 
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 9--9
+\OT1/ptm/m/n/9 Shows the plu-gin with the in-dex num-ber equal to
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 11--11
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 7--12
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 913--913
+[][] 
+ []
+
+[96] (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/show_traces.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\OT1/pcr/m/n/9 show[]traces [-h] [-v] [-t] [-A] [-m | -o output-file]
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 11--11
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 15--15
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 19--19
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 22--22
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\OT1/ptm/m/n/9 Writes the out-put gen-er-ated by the com-mand to
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 25--25
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 29--29
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 33--33
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 38--38
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 7--43
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/read_trace.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+[97]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 11--11
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 24--24
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 6--25
+[] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 941--950
+
+ []
+
+[98]
+Underfull \hbox (badness 1540) in paragraph at lines 992--995
+[]\OT1/ptm/m/n/9 where \OT1/pcr/m/n/9 INPUT[]VAR\OT1/ptm/m/n/9 , \OT1/pcr/m/n/9
+ STATE[]VAR \OT1/ptm/m/n/9 and \OT1/pcr/m/n/9 CONSTANT \OT1/ptm/m/n/9 have the 
+rel-e-vant mod-ule names
+ []
+
+[99] [100]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1136--1136
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1147--1147
+[][] 
+ []
+
+
+Overfull \hbox (1.62923pt too wide) in paragraph at lines 1185--1185
+[]\OT1/pcr/m/n/9 symmetry[]sift[]converge: 
+ []
+
+
+Overfull \hbox (28.93185pt too wide) in paragraph at lines 1153--1192
+[] 
+ []
+
+[101]
+Underfull \hbox (badness 2142) in paragraph at lines 1224--1224
+\OT1/ptm/m/n/9 This method is a com-bi-na-tion of sift-ing and lin-ear
+ []
+
+
+Overfull \hbox (28.93185pt too wide) in paragraph at lines 1192--1230
+[] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/dynamic_var_ordering.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--18
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 29--29
+[][]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 34--35
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 19--35
+[] 
+ []
+
+[102]
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 41--42
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 48--49
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 51--52
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 58--59
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 61--62
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 65--66
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 68--69
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 72--73
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 75--76
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 79--80
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 83--84
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 90--91
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 93--94
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (2.04501pt too wide) in paragraph at lines 96--97
+[]$\OMS/cmsy/m/n/9 ^^O [] []$[]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 104--104
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 35--106
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/clean_sexp2bdd_cache.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 4--4
+[][] 
+ []
+
+[103]) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_formula.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 11--11
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--13
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1237--1237
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_bdd_stats.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/set_bdd_parameters.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+[104]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 20--20
+[][]| 
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 20--20
+\OT1/ptm/m/n/9 Prints the BDD pa-ram-e-ter and statis-tics af-ter the
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 18--21
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1263--1263
+[][] 
+ []
+
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/alias.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--11
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--14
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+\OT1/pcr/m/n/9 NuSMV> alias read "read[]model -i %:1.smv ; set
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 23--44
+\OT1/ptm/m/n/9 will cre-ate an alias `read', ex-e-cute "read[]model -i short.sm
+v; set in-put[]order[]file
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/echo.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+[105]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 11--11
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 19--19
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 8--20
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/help.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--15
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/history.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+[106]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--14
+[] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 39--39
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 41--41
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 43--43
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 45--45
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 47--47
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 49--49
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 51--51
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 53--53
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 57--57
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 38--59
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/print_usage.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/quit.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 10--10
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 8--10
+[] 
+ []
+
+[107]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--13
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/reset.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/set.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--11
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 11--16
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+[108]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 68--68
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 76--76
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 79--79
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 82--82
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 64--84
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/source.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 9--9
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 14--14
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 16--16
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 8--17
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 29--32
+\OT1/ptm/m/n/9 Typing \OT1/pcr/m/n/9 source test.scr short.smv \OT1/ptm/m/n/9 o
+n the com-mand line will ex-e-cute the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/time.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/unalias.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 9--9
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 8--10
+[] 
+ []
+
+) [110] (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/unset.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 12--12
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 10--14
+[] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/usage.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/cmd/which.tex
+Overfull \hbox (1.97415pt too wide) in alignment at lines 2--2
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--11
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 13--13
+[][]| 
+ []
+
+
+Overfull \hbox (12.43054pt too wide) in paragraph at lines 12--14
+[] 
+ []
+
+)
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1301--1301
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1307--1307
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1323--1323
+[][] 
+ []
+
+[111]
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1335--1335
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1340--1340
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1346--1346
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1356--1356
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1361--1361
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1366--1366
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1371--1371
+[][] 
+ []
+
+
+Overfull \hbox (1.97415pt too wide) in alignment at lines 1377--1377
+[][] 
+ []
+
+<cmdpo.pdf, id=1082, 614.295pt x 794.97pt>
+File: cmdpo.pdf Graphic file (type pdf)
+ <use cmdpo.pdf>
+Package pdftex.def Info: cmdpo.pdf used on input line 1387.
+(pdftex.def)             Requested size: 345.0pt x 446.4781pt.
+) [112] [113 <./cmdpo.pdf>]
+Chapter 4.
+(/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/batch.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
+
+ []
+
+
+Overfull \hbox (68.20741pt too wide) in paragraph at lines 16--16
+[]\OT1/pcr/m/sc/9 NuSMV \OT1/pcr/m/n/9 [-h | -help] [-v  \OT1/ptm/m/it/9 vl\OT1
+/pcr/m/n/9 ] [-int] [[-source script_file | -load script_file]][] 
+ []
+
+
+Overfull \hbox (32.99957pt too wide) in paragraph at lines 21--21
+[]       \OT1/pcr/m/n/9 [-ic] [-ils] [-ips] [-ii] [-ctt] [[-f] [-r]]|[-df] [-fl
+t] [-AG][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 37--37
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 42--42
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 51--51
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 52--52
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 53--53
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 54--54
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 58--58
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/ptm/m/n/9 Avoids to load the \OT1/ptm/m/sc/9 NuSMV \OT1/ptm/m/n/9 com-mand
+s con-
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 58--58
+\OT1/ptm/m/n/9 tained in  $\OMS/cmsy/m/n/9 ^^X$\OT1/pcr/m/n/9 /.nusmvrc \OT1/pt
+m/m/n/9 or in \OT1/pcr/m/n/9 .nusmvrc \OT1/ptm/m/n/9 or in
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 74--74
+[][]| 
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 74--74
+[]\OT1/ptm/m/n/9 Keeps back-ward com-pat-i-bil-ity with older ver-sions of
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 79--79
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 85--85
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 89--89
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 94--94
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 99--99
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 99--99
+[]\OT1/ptm/m/n/9 Disables the gen-er-a-tion of counter-examples for prop-
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 99--99
+\OT1/ptm/m/n/9 er-ties that are proved to be false. See also vari-able
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 105--105
+[][]| 
+ []
+
+[114
+
+] [115]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 115--115
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 119--119
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 123--123
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 127--127
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 131--131
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 136--136
+[][]| 
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 136--136
+[]\OT1/ptm/m/n/9 Does not check \OT1/pcr/m/n/9 SPEC \OT1/ptm/m/n/9 prop-er-ties
+. Sets to ``1'' the
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 141--141
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 146--146
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 151--151
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 156--156
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 160--160
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 166--166
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 171--171
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 177--177
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 192--192
+[][]| 
+ []
+
+[116]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 197--197
+[][]| 
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 197--197
+[]\OT1/ptm/m/n/9 Verifies only AG for-mu-las us-ing an ad hoc al-go-rithm
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 209--209
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 213--213
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 217--217
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 225--225
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 230--230
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 234--234
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 244--244
+[][]| 
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 244--244
+\OT1/ptm/m/n/9 si-ble val-ues for method are those al-lowed for the
+ []
+
+
+Overfull \hbox (12.42921pt too wide) in paragraph at lines 252--252
+[]\OT1/pcr/m/n/9 -disable[]sexp2bdd[]caching 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 252--252
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\OT1/ptm/m/n/9 Sets the de-fault value of en-vi-ron-ment vari-able
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 252--252
+\OT1/ptm/m/n/9 ex-pres-sion to ADD and BDD rep-re-sen-ta-tions are not
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 261--261
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]\OT1/ptm/m/n/9 Sets the de-fault value of en-vi-ron-ment vari-able
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 261--261
+\OT1/pcr/m/n/9 bdd[]static[]order[]heuristics \OT1/ptm/m/n/9 to \OT1/pcr/m/n/9 
+heuristics\OT1/ptm/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 261--261
+\OT1/ptm/m/n/9 i.e. the op-tion sets up the heuris-tics to be used to
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 261--261
+\OT1/ptm/m/n/9 com-pute BDD or-der-ing stat-i-cally by an-a-lyz-ing the
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 261--261
+\OT1/ptm/m/n/9 in-put model. See the doc-u-men-ta-tion about vari-able
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 265--265
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 270--270
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 274--274
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 279--279
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 283--283
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 287--287
+[][]| 
+ []
+
+[117]
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 292--292
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 296--296
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 301--301
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 307--307
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 315--315
+[][]| 
+ []
+
+
+Overfull \hbox (21.50131pt too wide) in paragraph at lines 319--319
+[][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\OT1/pcr/m/n/9 oreg[]justice[]emptiness[]bdd[]algorithm \OT1/ptm/m/n/9 (de-
+ []
+
+) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/citeall.tex) (./main.bbl
+[118] [119
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+[]\OT1/ptm/m/n/9 Language Front-End for Sugar Foun-da-tion Lan-guage.
+ []
+
+) [120] (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/app.tex
+Appendix A.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\OT1/pcr/m/n/10 F, G, X, U, V,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/pcr/m/n/10 W, H, O, Y, Z,
+ []
+
+
+Overfull \hbox (79.0pt too wide) in paragraph at lines 18--69
+[][] 
+ []
+
+[121
+
+]) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/typerulesapp.tex [122]
+[123]
+Appendix B.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[124
+
+]
+Overfull \hbox (44.01193pt too wide) in paragraph at lines 117--127
+[][] 
+ []
+
+[125]
+Overfull \hbox (20.20602pt too wide) in paragraph at lines 169--191
+[][] 
+ []
+
+
+Overfull \hbox (50.29794pt too wide) in paragraph at lines 209--230
+[][] 
+ []
+
+[126]) (/root/research/NuSMV-2.6.0/NuSMV/doc/user-man/app_grammar.tex [127]
+[128]
+Appendix C.
+[129
+
+]
+Overfull \hbox (65.39954pt too wide) in paragraph at lines 79--79
+[]\OT1/pcr/m/n/9 word_constant :: \OT1/pcr/b/n/9 0 \OT1/pcr/m/n/9 [word_sign_sp
+ecifier] word_base [word_width] \OT1/pcr/b/n/9 _ \OT1/pcr/m/n/9 word_value[] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 111.
+[130]
+Overfull \hbox (44.39993pt too wide) in paragraph at lines 143--143
+[]                                 \OT1/pcr/m/n/8 -- word[1] and integer to boo
+lean convertion[] 
+ []
+
+
+Overfull \hbox (44.39993pt too wide) in paragraph at lines 145--145
+[]                                 \OT1/pcr/m/n/8 -- word[N] and boolean to int
+eger convertion[] 
+ []
+
+
+Overfull \hbox (10.79991pt too wide) in paragraph at lines 147--147
+[]                                 \OT1/pcr/m/n/8 -- unsigned to signed word co
+nvertion[] 
+ []
+
+
+Overfull \hbox (10.79991pt too wide) in paragraph at lines 149--149
+[]                                 \OT1/pcr/m/n/8 -- signed to unsigned word co
+nvertion[] 
+ []
+
+LaTeX Font Info:    Font shape `OMS/pcr/bx/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 156.
+[131] [132] [133] [134] [135] [136] [137] [138]) [139] (./main.and
+Overfull \hbox (49.20981pt too wide) in paragraph at lines 12--14
+[]\OT1/pcr/m/n/9 bmc[]simulate[]check[]feasible[]constraints\OT1/ptm/m/n/9 ,
+ []
+
+[140
+
+
+]) (./main.nnd
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]\OT1/pcr/m/n/9 check[]invar[]bdd[]bmc[]heuristic\OT1/ptm/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]\OT1/pcr/m/n/9 check[]invar[]bdd[]bmc[]threshold\OT1/ptm/m/n/9 ,
+ []
+
+
+Overfull \hbox (43.80981pt too wide) in paragraph at lines 21--23
+[]\OT1/pcr/m/n/9 check[]invar[]forward[]backward[]heuristic\OT1/ptm/m/n/9 ,
+ []
+
+
+Overfull \hbox (33.00983pt too wide) in paragraph at lines 53--55
+[]\OT1/pcr/m/n/9 oreg[]justice[]emptiness[]bdd[]algorithm\OT1/ptm/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[]\OT1/pcr/m/n/9 traces[]show[]defines[]with[]next\OT1/ptm/m/n/9 ,
+ []
+
+[141
+
+
+]) (./main.ind
+Underfull \hbox (badness 1102) in paragraph at lines 94--95
+[]\OT1/ptm/m/n/9 Commands for check-ing PSL spec-i-fi-ca-
+ []
+
+[142
+
+
+] [143] [144])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
+
+
+ *File List*
+  report.cls    2014/09/29 v1.4h Standard LaTeX document class
+  size10.clo    2014/09/29 v1.4h Standard LaTeX file (size option)
+   nusmv.sty    
+graphicx.sty    2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+graphics.sty    2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2016/01/03 v1.10 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2017/01/12 v0.06k Graphics/color for pdfTeX
+infwarerr.sty    2016/05/16 v1.4 Providing info/warning/error messages (HO)
+ ltxcmds.sty    2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+supertabular.sty    2004/02/20 v4.1e the supertabular environment
+   alltt.sty    1997/06/16 v2.0g defines alltt environment
+  ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+colortbl.sty    2012/02/13 v1.0a Color table columns (DPC)
+   array.sty    2016/10/06 v2.4d Tabular extension package (FMi)
+   color.sty    1999/02/16
+   color.cfg    2016/01/02 v1.6 sample color configuration
+  xspace.sty    1997/10/13 v1.06 Space after command names (DPC)
+ fontenc.sty
+  ot1enc.def    2017/02/22 v2.0g Standard LaTeX file
+ type1cm.sty    2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, pa
+tched RF)
+   times.sty    2005/04/12 PSNFSS-v9.2a (SPQR) 
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+tocbibind.sty    2010/10/13 v1.5k extra ToC listings
+   index.sty    1995/09/28 v4.1beta Improved index support (dmj)
+todonotes.sty    2012/07/25
+ xkeyval.sty    2014/12/03 v2.7a package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+  xcolor.sty    2016/05/11 v2.12 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+    tikz.sty    2015/08/07 v3.0.1a (rcs-revision 1.151)
+     pgf.sty    2015/08/07 v3.0.1a (rcs-revision 1.15)
+  pgfrcs.sty    2015/08/07 v3.0.1a (rcs-revision 1.31)
+everyshi.sty    2001/05/15 v3.00 EveryShipout Package (MS)
+  pgfrcs.code.tex
+ pgfcore.sty    2010/04/11 v3.0.1a (rcs-revision 1.7)
+  pgfsys.sty    2014/07/09 v3.0.1a (rcs-revision 1.48)
+  pgfsys.code.tex
+pgfsyssoftpath.code.tex    2013/09/09  (rcs-revision 1.9)
+pgfsysprotocol.code.tex    2006/10/16  (rcs-revision 1.4)
+ pgfcore.code.tex
+pgfcomp-version-0-65.sty    2007/07/03 v3.0.1a (rcs-revision 1.7)
+pgfcomp-version-1-18.sty    2007/07/23 v3.0.1a (rcs-revision 1.1)
+  pgffor.sty    2013/12/13 v3.0.1a (rcs-revision 1.25)
+ pgfkeys.sty    
+ pgfkeys.code.tex
+ pgfmath.sty    
+ pgfmath.code.tex
+  pgffor.code.tex
+    tikz.code.tex
+    calc.sty    2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+hyperref.sty    2016/06/24 v6.83q Hypertext links for LaTeX
+hobsub-hyperref.sty    2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+hobsub-generic.sty    2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+  hobsub.sty    2016/05/16 v1.14 Construct package bundles (HO)
+ifluatex.sty    2016/05/16 v1.4 Provides the ifluatex switch (HO)
+  ifvtex.sty    2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+ intcalc.sty    2016/05/16 v1.2 Expandable calculations with integers (HO)
+   ifpdf.sty    2016/05/14 v3.1 Provides the ifpdf switch
+etexcmds.sty    2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+kvsetkeys.sty    2016/05/16 v1.17 Key value parser (HO)
+kvdefinekeys.sty    2016/05/16 v1.4 Define keys (HO)
+pdftexcmds.sty    2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
+pdfescape.sty    2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+bigintcalc.sty    2016/05/16 v1.4 Expandable calculations on big integers (HO)
+  bitset.sty    2016/05/16 v1.2 Handle bit-vector datatype (HO)
+uniquecounter.sty    2016/05/16 v1.3 Provide unlimited unique counter (HO)
+letltxmacro.sty    2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+ hopatch.sty    2016/05/16 v1.3 Wrapper for package hooks (HO)
+xcolor-patch.sty    2016/05/16 xcolor patch
+atveryend.sty    2016/05/16 v1.9 Hooks at the very end of document (HO)
+atbegshi.sty    2016/06/09 v1.18 At begin shipout hook (HO)
+refcount.sty    2016/05/16 v3.5 Data extraction from label references (HO)
+ hycolor.sty    2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+ auxhook.sty    2016/05/16 v1.4 Hooks for auxiliary files (HO)
+kvoptions.sty    2016/05/16 v3.12 Key value format for package options (HO)
+  pd1enc.def    2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+hyperref.cfg    2002/06/06 v1.2 hyperref configuration of TeXLive
+ hpdftex.def    2016/06/24 v6.83q Hyperref driver for pdfTeX
+rerunfilecheck.sty    2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+  ot1ptm.fd    2001/06/04 font definitions for OT1/ptm.
+supp-pdf.mkii
+epstopdf-base.sty    2016/05/15 v2.6 Base part for package epstopdf
+  grfext.sty    2016/05/16 v1.2 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ nameref.sty    2016/05/21 v2.44 Cross-referencing by name of section
+gettitlestring.sty    2016/05/16 v1.5 Cleanup title references (HO)
+    main.out
+    main.out
+   title.tex
+  ot1pcr.fd    2001/06/04 font definitions for OT1/pcr.
+  omsptm.fd    
+   intro.tex
+  syntax.tex
+  ot1phv.fd    2001/06/04 scalable font definitions for OT1/phv.
+  omspcr.fd    
+   inter.tex
+cmd/read_model.tex
+cmd/flatten_hierarchy.tex
+cmd/show_vars.tex
+cmd/show_dependencies.tex
+cmd/encode_variables.tex
+cmd/write_order.tex
+cmd/build_model.tex
+cmd/print_iwls95options.tex
+  cmd/go.tex
+cmd/get_internal_status.tex
+cmd/process_model.tex
+cmd/build_flat_model.tex
+cmd/build_boolean_model.tex
+cmd/write_flat_model.tex
+cmd/write_boolean_model.tex
+cmd/dump_fsm.tex
+cmd/compute_reachable.tex
+cmd/print_reachable_states.tex
+cmd/check_fsm.tex
+cmd/print_fsm_stats.tex
+cmd/print_fair_states.tex
+cmd/print_fair_transitions.tex
+cmd/check_ctlspec.tex
+cmd/check_invar.tex
+cmd/check_ltlspec.tex
+cmd/check_compute.tex
+cmd/check_property.tex
+cmd/add_property.tex
+cmd/show_property.tex
+cmd/convert_property_to_invar.tex
+cmd/write_coi_model.tex
+cmd/bmc_setup.tex
+cmd/go_bmc.tex
+cmd/check_ltlspec_bmc.tex
+cmd/check_ltlspec_bmc_onepb.tex
+cmd/gen_ltlspec_bmc.tex
+cmd/gen_ltlspec_bmc_onepb.tex
+cmd/check_ltlspec_bmc_inc.tex
+cmd/check_ltlspec_sbmc.tex
+cmd/check_ltlspec_sbmc_inc.tex
+cmd/gen_ltlspec_sbmc.tex
+cmd/check_invar_bmc.tex
+cmd/gen_invar_bmc.tex
+cmd/check_invar_bmc_inc.tex
+cmd/bmc_simulate.tex
+cmd/check_pslspec.tex
+cmd/check_pslspec_bmc.tex
+cmd/check_pslspec_bmc_inc.tex
+cmd/check_pslspec_sbmc.tex
+cmd/check_pslspec_sbmc_inc.tex
+cmd/pick_state.tex
+cmd/simulate.tex
+cmd/execute_traces.tex
+cmd/execute_partial_traces.tex
+cmd/goto_state.tex
+cmd/print_current_state.tex
+cmd/show_plugins.tex
+cmd/show_traces.tex
+cmd/read_trace.tex
+cmd/dynamic_var_ordering.tex
+cmd/clean_sexp2bdd_cache.tex
+cmd/print_formula.tex
+cmd/print_bdd_stats.tex
+cmd/set_bdd_parameters.tex
+cmd/alias.tex
+cmd/echo.tex
+cmd/help.tex
+cmd/history.tex
+cmd/print_usage.tex
+cmd/quit.tex
+cmd/reset.tex
+ cmd/set.tex
+cmd/source.tex
+cmd/time.tex
+cmd/unalias.tex
+cmd/unset.tex
+cmd/usage.tex
+cmd/which.tex
+   cmdpo.pdf    Graphic file (type pdf)
+   batch.tex
+ citeall.tex
+    main.bbl
+     app.tex
+typerulesapp.tex
+app_grammar.tex
+    main.and
+    main.nnd
+    main.ind
+ ***********
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 4445B39A631F81A1C680EB3854935F89;5064.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
+ ) 
+Here is how much of TeX's memory you used:
+ 17437 strings out of 493013
+ 332098 string characters out of 6135682
+ 384362 words of memory out of 5000000
+ 20041 multiletter control sequences out of 15000+600000
+ 44629 words of font info for 87 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,18n,76p,2834b,899s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/cour
+ier/ucrro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (145 pages, 655395 bytes).
+PDF statistics:
+ 1810 PDF objects out of 2073 (max. 8388607)
+ 1625 compressed objects within 17 object streams
+ 326 named destinations out of 1000 (max. 500000)
+ 602 words of extra memory for PDF output out of 10000 (max. 10000000)
+

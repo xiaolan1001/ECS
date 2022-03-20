@@ -1,0 +1,15 @@
+\begin{thebibliography}{BCCZ99}
+
+\bibitem[BCCZ99]{BCCZ99}
+A.~Biere, A.~Cimatti, E.~Clarke, and Y.~Zhu.
+\newblock Symbolic model checking without bdds.
+\newblock In {\em Tools and Algorithms for Construction and Analysis of
+  Systems, In TACAS'99}, March 1999.
+
+\bibitem[ES04]{een04temporal}
+Niklas E\'en and Niklas S\"orensson.
+\newblock Temporal induction by incremental sat solving.
+\newblock In Ofer Strichman and Armin Biere, editors, {\em Electronic Notes in
+  Theoretical Computer Science}, volume~89. Elsevier, 2004.
+
+\end{thebibliography}

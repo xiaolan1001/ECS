@@ -1,0 +1,136 @@
+\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}
+\contentsline {chapter}{\numberline {2}Input Language}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Types Overview}{7}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Boolean}{7}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Integer}{7}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Enumeration Types}{7}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Word}{8}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Array}{8}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Set Types}{8}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Type Order}{9}{subsection.2.1.7}
+\contentsline {section}{\numberline {2.2}Expressions}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Implicit Type Conversion}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Constant Expressions}{10}{subsection.2.2.2}
+\contentsline {subsubsection}{Boolean Constant}{10}{section*.2}
+\contentsline {subsubsection}{Integer Constant}{10}{section*.3}
+\contentsline {subsubsection}{Symbolic Constant}{10}{section*.4}
+\contentsline {subsubsection}{Word Constant}{11}{section*.5}
+\contentsline {subsubsection}{Range Constant}{12}{section*.6}
+\contentsline {subsection}{\numberline {2.2.3}Basic Expressions}{12}{subsection.2.2.3}
+\contentsline {subsubsection}{Variables and Defines}{13}{section*.7}
+\contentsline {subsubsection}{Parentheses}{14}{section*.8}
+\contentsline {subsubsection}{Logical and Bitwise !}{14}{section*.9}
+\contentsline {subsubsection}{Logical and Bitwise \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {\&}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {|}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {xor}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {xnor}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {->}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {<->}}}\xspace }{14}{section*.10}
+\contentsline {subsubsection}{Equality (\relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {=}}}\xspace ) and Inequality (\relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {!=}}}\xspace )}{15}{section*.11}
+\contentsline {subsubsection}{Relational Operators \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {>}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {<}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {>=}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {<=}}}\xspace }{15}{section*.12}
+\contentsline {subsubsection}{Arithmetic Operators \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {+}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {-}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {*}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {/}}}\xspace }{15}{section*.13}
+\contentsline {subsubsection}{Remainder Operator \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {mod}}}\xspace }{16}{section*.14}
+\contentsline {subsubsection}{Shift Operators \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {<<}}}\xspace , \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {>>}}}\xspace }{16}{section*.15}
+\contentsline {subsubsection}{Index Subscript Operator \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {[\nobreakspace {}]}}}\xspace }{17}{section*.16}
+\contentsline {subsubsection}{Bit Selection Operator \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {[ :\nobreakspace {}]}}}\xspace }{17}{section*.17}
+\contentsline {subsubsection}{Word Concatenation Operator \texttt {::}\xspace }{17}{section*.18}
+\contentsline {subsubsection}{Word sizeof Operator}{18}{section*.19}
+\contentsline {subsubsection}{Extend Word Conversions}{18}{section*.20}
+\contentsline {subsubsection}{Resize Word Conversions}{18}{section*.21}
+\contentsline {subsubsection}{Set Expressions}{18}{section*.22}
+\contentsline {subsubsection}{Inclusion Operator \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\textbf {\texttt {in}}}\xspace }{19}{section*.23}
+\contentsline {subsubsection}{Case Expressions}{20}{section*.24}
+\contentsline {subsubsection}{If-Then-Else expressions}{20}{section*.25}
+\contentsline {subsubsection}{Basic Next Expression}{21}{section*.26}
+\contentsline {subsubsection}{Count Operator}{21}{section*.27}
+\contentsline {subsection}{\numberline {2.2.4}Simple and Next Expressions}{21}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Type conversion operators}{21}{subsection.2.2.5}
+\contentsline {subsubsection}{Integer conversion operator}{21}{section*.28}
+\contentsline {subsubsection}{Boolean conversion operator}{22}{section*.29}
+\contentsline {subsubsection}{Integer to Word Constants Conversion}{22}{section*.30}
+\contentsline {subsubsection}{Word1 Explicit Conversions}{22}{section*.31}
+\contentsline {subsubsection}{Unsigned and Signed Explicit Conversions}{22}{section*.32}
+\contentsline {section}{\numberline {2.3}Definition of the FSM}{23}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Variable Declarations}{23}{subsection.2.3.1}
+\contentsline {subsubsection}{Type Specifiers}{23}{section*.33}
+\contentsline {subsubsection}{State Variables}{24}{section*.34}
+\contentsline {subsubsection}{Input Variables}{24}{section*.35}
+\contentsline {subsubsection}{Frozen Variables}{25}{section*.36}
+\contentsline {subsubsection}{Examples}{26}{section*.37}
+\contentsline {subsection}{\numberline {2.3.2}\texttt {DEFINE}\xspace Declarations}{27}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Array Define Declarations}{27}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}\texttt {CONSTANTS}\xspace Declarations}{27}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}\texttt {INIT}\xspace Constraint}{28}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}\texttt {INVAR}\xspace Constraint}{28}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}\texttt {TRANS}\xspace Constraint}{28}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}\texttt {ASSIGN}\xspace Constraint}{28}{subsection.2.3.8}
+\contentsline {subsubsection}{Rules for assignments}{29}{section*.38}
+\contentsline {subsection}{\numberline {2.3.9}\texttt {FAIRNESS}\xspace Constraints}{30}{subsection.2.3.9}
+\contentsline {subsection}{\numberline {2.3.10}\texttt {MODULE}\xspace Declarations}{31}{subsection.2.3.10}
+\contentsline {subsection}{\numberline {2.3.11}\texttt {MODULE}\xspace Instantiations}{31}{subsection.2.3.11}
+\contentsline {subsection}{\numberline {2.3.12}References to Module Components (Variables and Defines)}{32}{subsection.2.3.12}
+\contentsline {subsection}{\numberline {2.3.13}Processes}{34}{subsection.2.3.13}
+\contentsline {subsection}{\numberline {2.3.14}A Program and the \texttt {main}\xspace Module}{34}{subsection.2.3.14}
+\contentsline {subsection}{\numberline {2.3.15}Namespaces and Constraints on Declarations}{34}{subsection.2.3.15}
+\contentsline {subsection}{\numberline {2.3.16}Context}{36}{subsection.2.3.16}
+\contentsline {subsection}{\numberline {2.3.17}\texttt {ISA}\xspace Declarations}{36}{subsection.2.3.17}
+\contentsline {section}{\numberline {2.4}Specifications}{36}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}CTL Specifications}{36}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Invariant Specifications}{38}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}LTL Specifications}{38}{subsection.2.4.3}
+\contentsline {subsubsection}{Important Difference Between BDD and SAT Based LTL Model Checking}{39}{section*.39}
+\contentsline {subsection}{\numberline {2.4.4}Real Time CTL Specifications and Computations}{40}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}PSL Specifications}{41}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Variable Order Input}{45}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Input File Syntax}{45}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Scalar Variables}{46}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Array Variables}{47}{subsection.2.5.3}
+\contentsline {section}{\numberline {2.6}Clusters Ordering}{47}{section.2.6}
+\contentsline {chapter}{\numberline {3}Running NuSMV\xspace interactively}{48}{chapter.3}
+\contentsline {section}{\numberline {3.1}Model Reading and Building}{49}{section.3.1}
+\contentsline {section}{\numberline {3.2}Commands for Checking Specifications}{58}{section.3.2}
+\contentsline {section}{\numberline {3.3}Commands for Bounded Model Checking}{69}{section.3.3}
+\contentsline {section}{\numberline {3.4}Commands for checking PSL specifications}{85}{section.3.4}
+\contentsline {section}{\numberline {3.5}Simulation Commands}{90}{section.3.5}
+\contentsline {section}{\numberline {3.6}Execution Commands}{93}{section.3.6}
+\contentsline {section}{\numberline {3.7}Traces}{94}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Inspecting Traces}{95}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Displaying Traces}{95}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Trace Plugin Commands}{96}{subsection.3.7.3}
+\contentsline {section}{\numberline {3.8}Trace Plugins}{98}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Basic Trace Explainer}{98}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}States/Variables Table}{99}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}XML Format Printer}{99}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}XML Format Reader}{100}{subsection.3.8.4}
+\contentsline {subsection}{\numberline {3.8.5}Empty Trace}{100}{subsection.3.8.5}
+\contentsline {section}{\numberline {3.9}Interface to the DD Package}{100}{section.3.9}
+\contentsline {section}{\numberline {3.10}Administration Commands}{105}{section.3.10}
+\contentsline {section}{\numberline {3.11}Other Environment Variables}{111}{section.3.11}
+\contentsline {chapter}{\numberline {4}Running NuSMV\xspace batch}{114}{chapter.4}
+\contentsline {chapter}{Bibliography}{119}{chapter*.41}
+\contentsline {chapter}{\numberline {A}Compatibility with CMU SMV\xspace }{121}{appendix.A}
+\contentsline {chapter}{\numberline {B}Typing Rules}{124}{appendix.B}
+\contentsline {section}{\numberline {B.1}Types}{124}{section.B.1}
+\contentsline {section}{\numberline {B.2}Implicit Conversion}{124}{section.B.2}
+\contentsline {section}{\numberline {B.3}Type Rules}{125}{section.B.3}
+\contentsline {chapter}{\numberline {C}Production Rules}{129}{appendix.C}
+\contentsline {subsubsection}{Identifiers}{129}{section*.42}
+\contentsline {subsubsection}{Variable and DEFINE Identifiers}{129}{section*.43}
+\contentsline {subsubsection}{Complex Identifiers}{129}{section*.44}
+\contentsline {subsubsection}{Integer Numbers}{129}{section*.45}
+\contentsline {subsubsection}{Constants}{130}{section*.46}
+\contentsline {subsubsection}{Basic Expressions}{130}{section*.47}
+\contentsline {subsubsection}{Case Expression and If-Then-Else Expression}{131}{section*.48}
+\contentsline {subsubsection}{Simple Expression}{132}{section*.49}
+\contentsline {subsubsection}{Next Expression}{132}{section*.50}
+\contentsline {subsubsection}{Type Specifier}{132}{section*.51}
+\contentsline {subsubsection}{Module Type Specifier}{132}{section*.52}
+\contentsline {subsubsection}{State, Input and Frozen Variables}{132}{section*.53}
+\contentsline {subsubsection}{DEFINE Declaration}{133}{section*.54}
+\contentsline {subsubsection}{CONSTANTS Declaration}{133}{section*.55}
+\contentsline {subsubsection}{ASSIGN Declaration}{133}{section*.56}
+\contentsline {subsubsection}{TRANS Statement}{133}{section*.57}
+\contentsline {subsubsection}{INIT Statement}{133}{section*.58}
+\contentsline {subsubsection}{INVAR Statement}{133}{section*.59}
+\contentsline {subsubsection}{Module Declarations}{133}{section*.60}
+\contentsline {subsubsection}{ISA Declaration}{134}{section*.61}
+\contentsline {subsubsection}{CTL Specification}{134}{section*.62}
+\contentsline {subsubsection}{INVAR Specification}{134}{section*.63}
+\contentsline {subsubsection}{LTL Specification}{135}{section*.64}
+\contentsline {subsubsection}{Real Time CTL Specification}{135}{section*.65}
+\contentsline {subsubsection}{PSL Specification}{136}{section*.66}
