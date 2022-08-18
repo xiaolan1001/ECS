@@ -6,9 +6,7 @@ VAR
   heat: boolean;
   error: boolean;
 
-JUSTICE start;
-JUSTICE over;
-JUSTICE error;
+JUSTICE start & over & !error;
 
 INIT l=1;
 
@@ -34,3 +32,4 @@ TRANS
 (l=6 & next(l)=7) |
 (l=7 & next(l)=4);
 CTLSPEC AG (start -> AF heat);
+CTLSPEC !E[TRUE U  EX(start & over & heat & !error)];
