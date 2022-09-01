@@ -64,7 +64,9 @@ end Agent
 
 Evaluation
   recbit if ( (Receiver.state=r0) or (Receiver.state=r1) );
+  recbit0 if ((Receiver.state=r0));
   recack if ( ( Sender.ack = true ) );
+  notrecack if ( ( Sender.ack = false ) );
   bit0 if ( (Sender.bit=b0));
   bit1 if ( (Sender.bit=b1) );
   envworks if ( Environment.state=SR );
@@ -87,4 +89,12 @@ end Fairness
 Formulae
   AF(K(Sender,K(Receiver,bit0) or K(Receiver,bit1)));
   AG(recack -> K(Sender,(K(Receiver,bit0) or K(Receiver,bit1))));
+  AG(recbit -> AF recack);                      --RTCTL*SPEC A G((r.state=r0 | r.state=r1) -> A F s.ack);
+  EF !(AG recbit -> (AF recack));               --!E(G(r.state=r0 | r.state=r1) -> (F s.ack));
+  EF(EG(recbit and notrecack));                 --E F(E G((r.state=r0 | r.state=r1) & !s.ack));
+  AF(K(Sender, recbit));                        --A(F(s KNOW (r.state=r0 | r.state=r1)));
+  AF(recack -> K(Sender, recbit));              --A F(s.ack -> (s KNOW (r.state=r0 | r.state=r1)));
+  AG((bit1 and recack) -> K(Sender, recbit0));  --A G((s.bit=1 & s.ack) -> (s KNOW (r.state=r0)));
+
+  <g1>G(recbit -> AF recack);                   --<s, r> G((r.state=r0 | r.state=r1) -> A F s.ack);
 end Formulae
