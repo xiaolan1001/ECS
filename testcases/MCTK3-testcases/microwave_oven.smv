@@ -33,3 +33,10 @@ TRANS
 (l=7 & next(l)=4);
 CTLSPEC AG (start -> AF heat);
 CTLSPEC !E[TRUE U  EX(start & over & heat & !error)];
+CTLSPEC A[start U EF(heat)];
+CTLSPEC AF(heat);
+CTLSPEC AX!(start & over & heat & !error);
+LTLSPEC start;
+LTLSPEC  F start -> G heat;
+LTLSPEC TRUE;
+
