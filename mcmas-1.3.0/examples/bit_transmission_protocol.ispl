@@ -81,6 +81,7 @@ end InitStates
 Groups
   g1 = {Sender,Receiver};
   g2 = {Sender,Receiver,Environment};
+  g3 = {Environment};
 end Groups
 
 Fairness
@@ -97,6 +98,14 @@ Formulae
   AF(recack -> K(Sender, recbit));              --A F(s.ack -> (s KNOW (r.state=r0 | r.state=r1)));
   AG((bit1 and recack) -> K(Sender, recbit0));  --A G((s.bit=1 & s.ack) -> (s KNOW (r.state=r0)));
   AF(recbit -> AF recack); 
+  K(Sender, recbit);
 
   <g1>G(recbit -> AF recack);                   --<s, r> G((r.state=r0 | r.state=r1) -> A F s.ack);
+  !<g2>F!(recbit -> !<g2>G! recack);
+  !<g1>F!(recbit -> !<g1>G! recack);
+  <g1>F recack;
+  <g2>F recack;
+  EF recack;
+  !<g3>G!recack;
+  !<g1>F!recack;
 end Formulae

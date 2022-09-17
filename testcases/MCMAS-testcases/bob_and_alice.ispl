@@ -1,0 +1,59 @@
+Agent Bob
+  Vars:
+    count : 0 .. 10;
+  end Vars
+  Actions = { Inc, Wait };
+  Protocol:
+    count>=0 and count <10 : {Inc,Wait};
+  end Protocol
+  Evolution:
+    (count=count+1) if (Bob.Action=Inc) and (count<10);
+  end Evolution
+end Agent
+
+Agent Alice
+  Vars:
+    count : 0 .. 10;
+  end Vars
+  Actions = { Inc, Wait };
+  Protocol:
+    count>=0 and count <10 : {Inc,Wait};
+  end Protocol
+  Evolution:
+    (count=count+1) if (Alice.Action=Inc) and (count<10);
+  end Evolution
+end Agent
+
+Evaluation
+  bobwin if ( Bob.count = 10 );
+  alicewin if ( Alice.count = 10 );
+  bob9 if (Bob.count = 9);
+end Evaluation
+
+InitStates
+  ( Bob.count=0 ) and
+  ( Alice.count=0 );
+end InitStates
+
+Groups
+  g1 = {Bob,Alice};
+end Groups
+
+Formulae
+  <g1>F(bobwin);
+  AF(bobwin);
+  EF(bobwin);
+  <g1>G(bobwin);
+  EG(bobwin);
+  <g1>F(bobwin and alicewin);
+  EF(bobwin and alicewin);
+  <g1>X(bobwin);
+  EX(bobwin);
+  !<g1>X!(bobwin);
+  AX(bobwin);
+  <g1>F(!bobwin and !alicewin);
+  EF(!bobwin and !alicewin);
+  !<g1>G!(bobwin);
+  AF(bobwin);
+  K(Bob, bob9);
+end Formulae
