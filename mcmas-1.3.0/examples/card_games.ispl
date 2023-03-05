@@ -51,6 +51,7 @@ end Agent
 
 Evaluation
 	p1win if Environment.win=true;
+	pd if Environment.cards=qk;
 end Evaluation
 
 InitStates
@@ -61,12 +62,24 @@ end InitStates
 
 Groups
 	g1 = {player1};
+	g2 = {Environment};
+	g3 = {player1,Environment};
 end Groups
 
 Fairness
 end Fairness
 
 Formulae
-        AF(p1win);
-	<g1>F(p1win);
+        --AF(p1win);
+	--<g1>F(p1win);
+	--<g1>F(!p1win);
+	--<g1>X(p1win);
+    --<g3>F(pd->p1win);
+	--<g3>G(!p1win);
+	--!<g1>G!(p1win);
+	!<g1>F(p1win);
+	--!<g2>G!(p1win);
+	--<g2>F(p1win);
+	--<g3>F(p1win);
+	--!<g3>G!(p1win);
 end Formulae

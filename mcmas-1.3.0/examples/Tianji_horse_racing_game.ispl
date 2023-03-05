@@ -101,6 +101,6 @@ end Groups
 
 Formulae
 	<g1>F Tianjiwin;
-	<g1>G (<g1> F Tianjiwin);
-	<g1> (Tianjinotwin U Tianjiwin);
+	--<g1>G (<g1> F Tianjiwin);
+	--<g1> (Tianjinotwin U Tianjiwin);
 end Formulae

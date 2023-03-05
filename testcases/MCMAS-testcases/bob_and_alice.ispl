@@ -41,19 +41,19 @@ end Groups
 
 Formulae
   <g1>F(bobwin);
-  AF(bobwin);
-  EF(bobwin);
-  <g1>G(bobwin);
-  EG(bobwin);
-  <g1>F(bobwin and alicewin);
-  EF(bobwin and alicewin);
-  <g1>X(bobwin);
-  EX(bobwin);
-  !<g1>X!(bobwin);
-  AX(bobwin);
-  <g1>F(!bobwin and !alicewin);
-  EF(!bobwin and !alicewin);
-  !<g1>G!(bobwin);
-  AF(bobwin);
-  K(Bob, bob9);
+  -- AF(bobwin);
+  --EF(bobwin);
+  --<g1>G(bobwin);
+  --EG(bobwin);
+  --<g1>F(bobwin and alicewin);
+  --EF(bobwin and alicewin);
+  --<g1>X(bobwin);
+  --EX(bobwin);
+  --!<g1>X!(bobwin);
+  --AX(bobwin);
+  --<g1>F(!bobwin and !alicewin);
+  --EF(!bobwin and !alicewin);
+  --!<g1>G!(bobwin);
+  --AF(bobwin);
+  --K(Bob, bob9);
 end Formulae
